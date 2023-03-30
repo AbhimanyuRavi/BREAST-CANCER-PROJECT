@@ -19,10 +19,10 @@ The Random Forest classifier had the highest accuracy of 94.74% and also had goo
 The confusion matrix shows that the model correctly classified 162 out of 171 samples (94.74%). Out of the 108 actual malignant samples, the model correctly identified 104 samples, and it correctly classified 58 out of the 62 actual benign samples. There were only nine misclassifications in total.
 
 ## Conclusion
-**The results of this project indicate that machine learning algorithms can accurately classify breast cancer tumors as malignant or benign based on the features of the tumor. These models have the potential to aid medical professionals in making more accurate diagnoses and improving patient outcomes. The Random Forest classifier performed well in this project and can be used as a reliable model for classifying breast cancer tumors.
+**The results of this project indicate that machine learning algorithms can accurately classify breast cancer tumors as malignant or benign based on the features of the tumor. These models have the potential to aid medical professionals in making more accurate diagnoses and improving patient outcomes. The Random Forest classifier performed well in this project and can be used as a reliable model for classifying breast cancer tumors.**
 
 #How to run this project
-**To run this project, you need to have Python 3 installed on your system along with the following libraries:
+**To run this project, you need to have Python 3 installed on your system along with the following libraries:**
 
 pandas
 numpy
@@ -31,7 +31,7 @@ seaborn
 scikit-learn
 You can install these libraries using pip or conda commands.
 
-**You also need to download the dataset from this link: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+**You also need to download the dataset from this link: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)**
 
 Save the dataset as data.csv in the same folder as the Jupyter notebook file.
 
